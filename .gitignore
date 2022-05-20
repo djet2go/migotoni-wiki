@@ -1,0 +1,5 @@
+# IDEs and OS
+.idea/
+.vscode/
+.run/
+.DS_Store
